@@ -11,6 +11,7 @@ This file contains a number of front-end interview questions that can be used wh
   1. [HTML Questions](#html-questions)
   1. [CSS Questions](#css-questions)
   1. [JS Questions](#js-questions)
+  1. [Ruby Questions](#ruby-questions)
   1. [Testing Questions](#testing-questions)
   1. [Performance Questions](#performance-questions)
   1. [Network Questions](#network-questions)
