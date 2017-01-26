@@ -173,7 +173,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What is a relational database? Compared to a document database? What technologies are used?
 * What are the 3 main Rails values? (DRYness, Separation of Concerns & Modularity, Convention over configuration)
 * What is the active record?
-* 
+* What is the difference between hashing and salting?
 
 #### Testing Questions:
 
