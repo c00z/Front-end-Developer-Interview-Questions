@@ -35,6 +35,8 @@ This file contains a number of front-end interview questions that can be used wh
 * Can you describe the difference between progressive enhancement and graceful degradation?
 * How would you optimize a website's assets/resources?
 * How many resources will a browser download from a given domain at a time?
+* Open up your last project, explain your code and thought process.
+
   * What are the exceptions?
 * Name 3 ways to decrease page load (perceived or actual load time).
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
