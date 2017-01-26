@@ -7,6 +7,7 @@ This file contains a number of front-end interview questions that can be used wh
 ## Table of Contents
 
   1. [General Questions](#general-questions)
+  1. [Behavioral Questions](#behavioral-questions)
   1. [HTML Questions](#html-questions)
   1. [CSS Questions](#css-questions)
   1. [JS Questions](#js-questions)
@@ -47,6 +48,17 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
 * What does CORS stand for and what issue does it address?
+
+#### Behavioral Questions:
+* What are your biggest strengths? Weaknesses? 
+* What would your peers and instructors say about you?
+* Why did you choose to got to GA?
+* What was your greatest challenge at GA? 
+* What was your favorite part about WDI?
+* How well do you work on teams?
+* What did you like/not like about your last job?
+* Where do you see yourself in 3/5 years? What kind of environment?
+* What is your greatest achievement?
 
 #### HTML Questions:
 
